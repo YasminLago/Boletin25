@@ -43,9 +43,6 @@ public class Aplicacion4 implements ActionListener{
 
     @Override
     public void actionPerformed(ActionEvent e) {
-        Object obx = e.getSource();
-        
-        if(obx == bAccesoV2)
             ventana2();
             
     }
